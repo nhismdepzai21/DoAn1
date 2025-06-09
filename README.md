@@ -1,1 +1,1 @@
-# Mạch mô hình cảm mai che tự động với cảm biến mưa
+# Mạch mô hình mái che tự động với cảm biến mưa
